@@ -37,6 +37,6 @@
 <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white"> &nbsp;
 
 # 💎 My Grade
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=shinmyeongsub" height="165">
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=shinmyeongsub" height="170">
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=joyful2529)](https://solved.ac/joyful2529/)
