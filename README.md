@@ -1,6 +1,6 @@
 # :wave: Hi I'm Shin MyeongSeop :star2:
 
-#### I'm a front-end developer now, but my dream is to become a **full-stack developer** someday. :crown:
+#### I'm a junior developer now, but my dream is to become a **full-stack developer** someday. :crown:
 #### I've been working hard, I'm working hard, and I'll keep working hard. :seedling:
 #### I enjoy growing every day, and I am happy to learn and explore new things. :stuck_out_tongue_winking_eye:
 #### My hobbies are reading books, playing badminton, watching cartoons, etc. :+1:
