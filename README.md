@@ -15,7 +15,7 @@
 
 #### There is always no end to learning and I try to live with the joy of learning in my heart. :heartpulse:
 <a href="https://aiden-dev-board.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=Blogger&logoColor=white"></a> &nbsp;
-<img src="https://img.shields.io/badge/joyful2529@naver.com-83B81A?style=for-the-badge&logo=Mail.Ru&logoColor=white">
+<img src="https://img.shields.io/badge/vixi1700@gmail.com-83B81A?style=for-the-badge&logo=Mail.Ru&logoColor=white">
 
 # :memo: STACKS
 ### :pushpin: BE
@@ -29,7 +29,5 @@
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"> &nbsp;
 
-# 💎 My Grade
-<!-- <img align='left' src="https://github-readme-stats.vercel.app/api?username=shinmyeongsub" height="170"> -->
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=joyful2529)](https://solved.ac/joyful2529/)
+# 💎 My LeetCode Score
+[![LeetCode user shinmyeongsub](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fshinmyeongsub&logo=leetcode&logoColor=yellow)](https://leetcode.com/shinmyeongsub/)
