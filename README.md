@@ -14,20 +14,12 @@
 -Carlos Miguel Gutierrez-  
 
 #### There is always no end to learning and I try to live with the joy of learning in my heart. :heartpulse:
-<a href="https://aiden-dev-board.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=Blogger&logoColor=white"></a> &nbsp;
 <img src="https://img.shields.io/badge/vixi1700@gmail.com-83B81A?style=for-the-badge&logo=Mail.Ru&logoColor=white">
 
 # :memo: STACKS
 ### :pushpin: BE
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"> &nbsp;
-### :pushpin: DATABASE
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> &nbsp;
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> &nbsp;
-### :pushpin: TOOLS
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"> &nbsp;
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"> &nbsp;
-<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"> &nbsp;
 
 # 💎 My LeetCode Score
 [![LeetCode user shinmyeongsub](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fshinmyeongsub&logo=leetcode&logoColor=yellow)](https://leetcode.com/shinmyeongsub/)
