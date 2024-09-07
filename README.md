@@ -20,6 +20,3 @@
 ### :pushpin: BE
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"> &nbsp;
-
-# 💎 My LeetCode Score
-[![LeetCode user shinmyeongsub](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fshinmyeongsub&logo=leetcode&logoColor=yellow)](https://leetcode.com/shinmyeongsub/)
